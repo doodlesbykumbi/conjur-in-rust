@@ -1,0 +1,10 @@
+[package]
+name = "conjur-in-rust"
+version = "0.1.0"
+authors = ["kumbirai.tanekha"]
+
+[dependencies]
+aes-gcm = "0.10.1"
+chacha20poly1305 = "0.10.1"
+hex-literal = "0.3.4"
+
